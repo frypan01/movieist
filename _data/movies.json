@@ -1,53 +1,36 @@
 [
   {
-    "imdbId": "tt3915174",
-    "title": "Puss in Boots: The Last Wish",
-    "releaseDate": "2022-12-21",
-    "trailerLink": "https://www.youtube.com/watch?v=tHb7WlgyaUc",
+    "youtubeId": "ygfA1A45tn8",
+    "title": "You Don't Know How It Feels",
+    "releaseDate": "December 3, 1994",
+    "trailerLink": "https://www.youtube.com/watch?v=ygfA1A45tn8",
     "genres": [
-      "Animation",
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Family"
+      "90's Rock",
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/1NqwE6LP9IEdOZ57NCT51ftHtWT.jpg",
+    "poster": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-183881-85854013.jpg",
     "backdrops": [
-      "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-      "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
-      "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
-      "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
-      "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
-      "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
-      "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
-      "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
-      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
-      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
+      "https://cdn.mos.cms.futurecdn.net/pxs93YWHEcDSMVNCEwuBPe.jpg",
+      "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/wildflowers-tom-petty-tribute-mural-gainesville-florida-carrie-martinez.jpg",
+      "https://wallpapers.com/images/hd/tom-petty-and-the-heartbreakers-for-long-after-dark-album-1yct0c224aj1f80c.jpg",
+      "https://media.pitchfork.com/photos/5f3df073f6eb11025fede783/2:1/w_2560%2Cc_limit/tom-petty-1995.jpg"
+     
     ],
-    "reviewIds": []
+    "reviewIds": [""]
   },
   {
-    "imdbId": "tt1630029",
-    "title": "Avatar: The Way of Water",
-    "releaseDate": "2022-12-16",
-    "trailerLink": "https://www.youtube.com/watch?v=d9MyW72ELq0",
+    "youtube": "09839DpTctU",
+    "title": "Hotel California",
+    "releaseDate": "February 22, 1977",
+    "trailerLink": "https://www.youtube.com/watch?v=09839DpTctU",
     "genres": [
-      "Science Fiction",
-      "Action",
-      "Adventure"
+      "70's Rock"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "poster": "https://cdn8.openculture.com/2021/07/09141134/hotel-california.jpg",
     "backdrops": [
-      "https://image.tmdb.org/t/p/original/s16H6tpK2utvwDtzZ8Qy4qm5Emw.jpg",
-      "https://image.tmdb.org/t/p/original/evaFLqtswezLosllRZtJNMiO1UR.jpg",
-      "https://image.tmdb.org/t/p/original/198vrF8k7mfQ4FjDJsBmdQcaiyq.jpg",
-      "https://image.tmdb.org/t/p/original/zaapQ1zjKe2BGhhowh5pM251Gpl.jpg",
-      "https://image.tmdb.org/t/p/original/tQ91wWQJ2WRNDXwxuO7GCXX5VPC.jpg",
-      "https://image.tmdb.org/t/p/original/5gPQKfFJnl8d1edbkOzKONo4mnr.jpg",
-      "https://image.tmdb.org/t/p/original/2fS9cpar9rzxixwnRptg4bGmIym.jpg",
-      "https://image.tmdb.org/t/p/original/fkGR1ltNbvERk3topo4dP3gWsvR.jpg",
-      "https://image.tmdb.org/t/p/original/rb9IHprKNoSKqatP2vr25unUDSu.jpg",
-      "https://image.tmdb.org/t/p/original/37ZswIuRQcRBN7kHij5MBjzRMRt.jpg"
+      "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-eagles-623b231c-d795-49ce-bb17-89d1aa951aa4.jpg",
+      "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/C/ClassicTracks_01-0910-z5Fop_Tfb._gYnK.qMZ4_hOHeELaIBeA.jpg",
+      "https://i0.wp.com/randymeisnerretrospective.com/wp-content/uploads/2022/04/0-Header.jpg?fit=1004%2C357&ssl=1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_NZtsCb2Se6OEggFc4MQ-yZoHpQ1bYKkyw-FgPgl7UPw3xnKxBXEbkVJxQfREOg6X2Rg&usqp=CAU"
     ],
     "reviewIds": []
   },
